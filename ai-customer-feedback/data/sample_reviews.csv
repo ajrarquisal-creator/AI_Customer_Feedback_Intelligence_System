@@ -1,0 +1,5 @@
+PRODUCT,DATE,SUMMARY,SENTIMENT_SCORE
+Mountain Jacket,2026-01-05,The jacket is warm and comfortable,0.85
+Trail Shoes,2026-01-06,The shoes are uncomfortable after long walks,-0.65
+Camping Tent,2026-01-07,The tent is easy to assemble,0.72
+Ski Goggles,2026-01-08,The goggles fog easily,-0.58
